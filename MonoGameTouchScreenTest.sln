@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGameTouchScreenTest", "MonoGameTouchScreenTest\MonoGameTouchScreenTest.csproj", "{27F72C17-E382-44FF-9E6F-C633647C0AFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoPlataforma", "DemoPlataforma\DemoPlataforma.csproj", "{AF5F54CD-5B5E-43D7-AE7F-364CC72DB90B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGame.Framework.iOS", "MonoGame.Framework\MonoGame.Framework.iOS.csproj", "{DB8508BB-9849-4CC2-BC0F-8EB5DACB3C47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27F72C17-E382-44FF-9E6F-C633647C0AFD}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{27F72C17-E382-44FF-9E6F-C633647C0AFD}.Debug|iPhone.Build.0 = Debug|iPhone
+		{27F72C17-E382-44FF-9E6F-C633647C0AFD}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{27F72C17-E382-44FF-9E6F-C633647C0AFD}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{27F72C17-E382-44FF-9E6F-C633647C0AFD}.Release|iPhone.ActiveCfg = Release|iPhone
+		{27F72C17-E382-44FF-9E6F-C633647C0AFD}.Release|iPhone.Build.0 = Release|iPhone
+		{27F72C17-E382-44FF-9E6F-C633647C0AFD}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{27F72C17-E382-44FF-9E6F-C633647C0AFD}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{AF5F54CD-5B5E-43D7-AE7F-364CC72DB90B}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{AF5F54CD-5B5E-43D7-AE7F-364CC72DB90B}.Debug|iPhone.Build.0 = Debug|iPhone
+		{AF5F54CD-5B5E-43D7-AE7F-364CC72DB90B}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{AF5F54CD-5B5E-43D7-AE7F-364CC72DB90B}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{AF5F54CD-5B5E-43D7-AE7F-364CC72DB90B}.Release|iPhone.ActiveCfg = Release|iPhone
+		{AF5F54CD-5B5E-43D7-AE7F-364CC72DB90B}.Release|iPhone.Build.0 = Release|iPhone
+		{AF5F54CD-5B5E-43D7-AE7F-364CC72DB90B}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{AF5F54CD-5B5E-43D7-AE7F-364CC72DB90B}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{DB8508BB-9849-4CC2-BC0F-8EB5DACB3C47}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{DB8508BB-9849-4CC2-BC0F-8EB5DACB3C47}.Debug|iPhone.Build.0 = Debug|iPhone
+		{DB8508BB-9849-4CC2-BC0F-8EB5DACB3C47}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{DB8508BB-9849-4CC2-BC0F-8EB5DACB3C47}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{DB8508BB-9849-4CC2-BC0F-8EB5DACB3C47}.Release|iPhone.ActiveCfg = Release|iPhone
+		{DB8508BB-9849-4CC2-BC0F-8EB5DACB3C47}.Release|iPhone.Build.0 = Release|iPhone
+		{DB8508BB-9849-4CC2-BC0F-8EB5DACB3C47}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{DB8508BB-9849-4CC2-BC0F-8EB5DACB3C47}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = DemoPlataforma\DemoPlataforma.csproj
+	EndGlobalSection
+EndGlobal
